@@ -92,4 +92,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manjunathglo&show_icons=true&theme=tokyonight" alt="manjunathglo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manjunathglo&" alt="manjunathglo" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manjunathglo&show_icons=true&theme=tokyonight" alt="manjunathglo" /></p>

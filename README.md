@@ -26,7 +26,7 @@
 
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
-<h2><i>Let's Connect</i></h2>
+<h2><i>Let's Connect with me:</i></h2>
 
 
 <p align="left">

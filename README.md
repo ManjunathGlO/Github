@@ -23,6 +23,59 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/manjunathgl/](https://www.linkedin.com/in/manjunathgl/)
 
+
+<!----------------------------------- Social Media Links Section ------------------------------------>
+
+<h2><i>Let's Connect</i></h2>
+
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/manjunathgl/">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/manjunathgl/" />
+    </a>
+  <a title="manjunathgl064@gmail.com" href="manjunathgl064@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="manjunathgl064@gmail.com" />
+    </a>
+    <a href="https://twitter.com/manjugl_here">
+        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/manjugl_here" />
+  </a>
+    <a href="https://leetcode.com/ManjunathGL/">
+        <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="https://leetcode.com/ManjunathGL/" />
+    </a>
+    <a href="https://www.canva.com/design/DAFOAmqU_vE/1Q8jcg-hfB1SxvdC0mZYWw/view">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://www.canva.com/design/DAFOAmqU_vE/1Q8jcg-hfB1SxvdC0mZYWw/view" />
+    </a>
+     <a href="https://www.kaggle.com/manjunathgl064">
+        <img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="https://www.kaggle.com/manjunathgl064" />
+    </a>
+    <a href="https://www.youtube.com/channel/UCnPaB5EtKX6ZEdVNnpkIRww">
+        <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" alt="https://www.youtube.com/channel/UCnPaB5EtKX6ZEdVNnpkIRww" />
+    </a>
+</p>
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!----------------------------------- Social Media Links Section ------------------------------------>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/manjugl_here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manjugl_here" height="30" width="40" /></a>

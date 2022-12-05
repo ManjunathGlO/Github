@@ -33,7 +33,7 @@
     <a href="https://www.linkedin.com/in/manjunathgl/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/manjunathgl/" />
     </a>
-  <a title="manjunathgl064@gmail.com" href="manjunathgl064@gmail.com">
+  <a title="manjunathgl064@gmail.com" href="mailto:manjunathgl064@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="manjunathgl064@gmail.com" />
     </a>
     <a href="https://twitter.com/manjugl_here">
@@ -51,8 +51,7 @@
     <a href="https://www.youtube.com/channel/UCnPaB5EtKX6ZEdVNnpkIRww">
         <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" alt="https://www.youtube.com/channel/UCnPaB5EtKX6ZEdVNnpkIRww" />
     </a>
-</p>
-<br>
+
 
 
 

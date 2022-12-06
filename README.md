@@ -116,9 +116,7 @@
 </p>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manjunathglo&show_icons=true&locale=en&layout=compact&exclude=0&theme=dark" alt="manjunathglo" /></p>AWS Lambda
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-sehrawat&layout=compact&exclude=0&theme=dark" alt="m-sehrawat" height="139" />
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manjunathglo&show_icons=true&locale=en&layout=compact&exclude=0&theme=dark" alt="manjunathglo" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manjunathglo&show_icons=true&theme=tokyonight" alt="manjunathglo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manjunathglo&show_icons=true&theme=tokyonight" alt="manjunathglo" /></p>

@@ -104,23 +104,19 @@
     <img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=Apache_Hadoop&logoColor=white" alt="Apache_Hadoop" />
     <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" alt="Databricks" />
     <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=Apache_Spark&logoColor=white" alt="Apache_Spark" />
-     <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power_BI&logoColor=white" alt="Power_BI" />
-     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" />
-     <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" alt="RStudio" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL" />
-     <img src="https://img.shields.io/badge/Microsoft_Azure-CB2E6D?style=for-the-badge&logo=Microsoft_Azure&logoColor=white" alt="Microsoft_Azure" />
-     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white" alt="R" />
-     <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
-     <img src="https://img.shields.io/badge/ABB_RobotStudio-FF9E0F?style=for-the-badge&logo=ABB_RobotStudio&logoColor=white" alt="ABB_RobotStudio" />
-     
-    
-
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power_BI&logoColor=white" alt="Power_BI" />
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" />
+    <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" alt="RStudio" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/Microsoft_Azure-CB2E6D?style=for-the-badge&logo=Microsoft_Azure&logoColor=white" alt="Microsoft_Azure" />
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white" alt="R" />
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
+    <img src="https://img.shields.io/badge/ABB_RobotStudio-FF9E0F?style=for-the-badge&logo=ABB_RobotStudio&logoColor=white" alt="ABB_RobotStudio" />
    
- 
 </p>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manjunathglo&show_icons=true&locale=en&layout=compact" alt="manjunathglo" /></p>AWS Lambda
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manjunathglo&show_icons=true&locale=en&layout=compact&exclude=0&theme=dark" alt="manjunathglo" /></p>AWS Lambda
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-sehrawat&layout=compact&exclude=0&theme=dark" alt="m-sehrawat" height="139" />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manjunathglo&show_icons=true&theme=tokyonight" alt="manjunathglo" /></p>
